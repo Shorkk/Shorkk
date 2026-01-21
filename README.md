@@ -5,9 +5,8 @@
 
 
 # 👊 Yo!
-⚡ Fun facto<br>💀 Aura: MAX<br>🔥 Inglish: Fire<br>💬 DM: open<br>♿ Need: help
+<!--⚡ Fun facto<br>💀 Aura: MAX<br>🔥 Inglish: Fire<br>💬 DM: open<br>♿ Need: help -->
 
-<br>
 
 # 💻 Skills:
 ### Programming Languages:
