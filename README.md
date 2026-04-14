@@ -3,8 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=Shorkk&color=lightgrey)
 
 
-
-# 👊 Yo!
 <!--⚡ Fun facto<br>💀 Aura: MAX<br>🔥 Inglish: Fire<br>💬 DM: open<br>♿ Need: help -->
 
 
